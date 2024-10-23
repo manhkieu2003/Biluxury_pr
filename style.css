@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.new-titile{
+  @apply uppercase text-lg font-bold mt-[13px] mb-[15px] ;
+}
+.new-item
+{
+  @apply border border-gray-400 p-4 hover:border-red-500 ;
+}
+.slider-container {
+  width: 100%;
+  overflow: hidden;
+}
+.slider {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+.slider-item {
+  min-width: 100%;
+  box-sizing: border-box;
+}

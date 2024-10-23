@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": " Áo Sơ Mi Đen Dài Tay Họa Tiết Thêu Chữ Ký Vai Bền Màu, Giữ Phom Tốt 8SMDT750BAW",
+      "img": "https://product.hstatic.net/200000053174/product/2_b3ad6b1c4a5c4ae2bd29db3836b5db24_master.jpg",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals 1",
+      "color": "Đen",
+      "CatepostId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Quần Tây Tím Than Tối Cạp Chun Ẩn Bền Màu, Chống Nhăn, Chống Bám Bẩn 8QAUC409TTT",
+      "img": "https://product.hstatic.net/200000053174/product/2_851aac355cb842af8200ad47f0c35427_master.jpg",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals 1",
+      "color": "Tím",
+      "CatepostId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Áo Sơ Mi Dài Tay Trắng Hoạ Tiết Thêu Chữ Ký Vai Bền Màu, Giữ Phom Tốt 8SMDT650BAW",
+      "img": "https://product.hstatic.net/200000053174/product/moi_thiet_ke_e831038c877c47fb892400f6d37cf92e_master.jpg",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals 1",
+      "color": "Trắng",
+      "CatepostId": "1"
+    }
+  ],
+  "Cateposts": [
+    {
+      "id": "1",
+      "name": "Aó Nam"
+    },
+    {
+      "id": "2",
+      "name": "Quần"
+    },
+    {
+      "id": "3",
+      "name": "Bộ vest"
+    }
+  ],
+  "Products": [
+    {
+      "id": "2",
+      "name": "Áo Polo Tím Than Tối Cơ Bản Công Nghệ Ép Dán Không Đường May 8APCH461TTT",
+      "img": "https://product.hstatic.net/200000053174/product/2_10f099be1d5b4815bd4a781f33bddc51_master.jpg",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals 1",
+      "color": "Tím",
+      "price": 300000,
+      "CatepostId": "1"
+    },
+    {
+      "id": "5",
+      "name": "Quần Tây Tím Than Tối Cạp Chun Ẩn Bền Màu, Chống Nhăn, Chống Bám Bẩn 8QAUC409TTT",
+      "img": "https://product.hstatic.net/200000053174/product/2_851aac355cb842af8200ad47f0c35427_master.jpg",
+      "desc": "Chất liệu: 100% Polyester Kiểu dáng: Phom dáng Slimfit ôm vừa, tôn dáng người mặc Thiết kế: Basic, họa tiết caro, 2 túi xẻ bên thân trước, 2 túi sau cài khuy, phần cạp có khả năng điều chỉnh kích thước Ưu điểm: Bền màu, chống nhăn, giữ phom tốt, chống bám bẩn, dễ làm sạch",
+      "color": "Tím",
+      "price": 699900,
+      "CatepostId": "2"
+    }
+  ],
+  "users": [
+    {
+      "email": "manh1223@gmail.com",
+      "password": "$2a$10$Bs4iWlKAX3nnrYk5UuG7QuRPbTt2cQoQtu5tDNYADX8pFoLgz.w6q",
+      "username": "manhkieu",
+      "confirm_password": "hello",
+      "id": 2
+    },
+    {
+      "email": "huebui1@gmail.com",
+      "password": "$2a$10$N/6nT27W.gmFU7uXQZc/tu47VWcqaKX/D4fgBFOjlLJyaLWYgtaQy",
+      "username": "Huebui",
+      "confirm_password": "121123",
+      "id": 3
+    },
+    {
+      "email": "maianh23@gmail.com",
+      "password": "$2a$10$W3woneLicnjYd5iTb3gwPeP9O8NTH3JkOC3Gffl0gIk2Kf6cuVNzq",
+      "username": "Maianh",
+      "confirm_password": "121123",
+      "id": 4
+    }
+  ]
+}
